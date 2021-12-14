@@ -1,7 +1,7 @@
 {
   "name": "nicbudd-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "My personal syntax theme using the colors I associate with myself.",
   "keywords": [
     "syntax",
